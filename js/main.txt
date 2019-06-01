@@ -1,0 +1,7 @@
+fonction helloworld() {
+ alert("hello")
+ }
+ $(document).ready(fonction(){
+ helloworld()
+ }}
+ 
